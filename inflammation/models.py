@@ -16,7 +16,7 @@ def load_csv(filename):
     :param filename: Filename of CSV to load
     :returns: Numpy array containing the data from the CSV
     """
-    return np.loadtxt(fname=filename, delimiter=',')
+    return np.loadtxt(fname=filename, delimiter=",")
 
 
 def daily_mean(data):
