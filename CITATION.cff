@@ -18,4 +18,4 @@ identifiers:
     value: >-
       https://github.com/RFroeling/python-intermediate-inflammation.git
     description: GitHub repository
-license: CC-BY-4.0
+license: MIT
