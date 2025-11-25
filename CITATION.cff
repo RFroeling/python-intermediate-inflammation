@@ -4,9 +4,18 @@
 cff-version: 1.2.0
 title: Inflam
 message: >-
-  If you use this software, please cite it using the
-  metadata from this file.
+  Hi! Feel free to (re)use the software, but please cite
+  accordingly
 type: software
 authors:
   - given-names: Rik
     family-names: Froeling
+    email: rik.froeling@wur.nl
+    affiliation: WUR
+    orcid: 'https://orcid.org/0009-0007-3879-1329'
+identifiers:
+  - type: url
+    value: >-
+      https://github.com/RFroeling/python-intermediate-inflammation.git
+    description: GitHub repository
+license: CC-BY-4.0
